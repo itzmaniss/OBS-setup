@@ -1,0 +1,16 @@
+name: Verify OBS restore
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  windows-restore:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Exercise the installer without changing real OBS settings
+        shell: powershell
+        run: .\tests\Test-Setup.ps1

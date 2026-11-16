@@ -1,0 +1,12 @@
+# Machine-specific exports and proof screenshots are kept outside the repository.
+/OBS-Terminal-Lab.json
+/obs-installed.png
+/twitch-updated.*
+/local/
+/backups/
+/test-results/
+*.log
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini

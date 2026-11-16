@@ -1,0 +1,153 @@
+{
+    "version":  1,
+    "files":  [
+                  {
+                      "path":  "avatar.html",
+                      "sha256":  "b4d037d1641c575812032548dff1a81e0d04c24960718708675dedf95c4ff5ea"
+                  },
+                  {
+                      "path":  "avatar.png",
+                      "sha256":  "4f099ed17db5e1786d4cccf56a35b1d549b508417cfe01da77461d7e0459aa26"
+                  },
+                  {
+                      "path":  "brand.css",
+                      "sha256":  "1e70465ff945962cedf5db26a4b0a4dff75f2f541a95f62787a0890384bc47a0"
+                  },
+                  {
+                      "path":  "brb.html",
+                      "sha256":  "98b8d2ebc2c1f0eb3c2b3b7349b1bdb127fb61e98ca8837ccb9294f6d6a90ef1"
+                  },
+                  {
+                      "path":  "brb.png",
+                      "sha256":  "72b764dcb29c03b2caa66f71449780e7c861422dbbef78cb7eec36d1dee1c1b8"
+                  },
+                  {
+                      "path":  "browser/chat.html",
+                      "sha256":  "fcb083f1bc8bf66b91bd9071f5bb6e783ed6d1cf40e22656e0d81e110d681a1e"
+                  },
+                  {
+                      "path":  "browser/chat-and-countdown.js",
+                      "sha256":  "0b39942982dd0779d8a49ce996ff8d62a8be157aead1728130dc564608dc8377"
+                  },
+                  {
+                      "path":  "browser/countdown.html",
+                      "sha256":  "df95a83d17bd18cc38050892f21714fc3899ebfaa7378180c4e3d99346dd9e4b"
+                  },
+                  {
+                      "path":  "browser/irc.js",
+                      "sha256":  "5abde13c7ced3b7203f07731c7e5537ee765800d4328783502b5e744e3b8831a"
+                  },
+                  {
+                      "path":  "browser/minimal.css",
+                      "sha256":  "f4abdad68080fa4666eea87f7cf0979638b02daa97bc63c7f3862fa6703a6f00"
+                  },
+                  {
+                      "path":  "browser/stream-config.js",
+                      "sha256":  "4ee4a1e2aa33ddcb09e63d4272b4fcbcc5c0b29be9fb9246600411f7e0b66e3c"
+                  },
+                  {
+                      "path":  "dev.html",
+                      "sha256":  "715c0e47ed3c6570cb3b29006014c8c459e1fcc3e05bffb2e3ad6464b1a41e3b"
+                  },
+                  {
+                      "path":  "dev.png",
+                      "sha256":  "68ef38126d3c7d5c054aa224388cb67358602116dce87838ee580fa811e3365f"
+                  },
+                  {
+                      "path":  "ending.html",
+                      "sha256":  "e68c6bd94a7cca5992beb82826c16560106750bb0de91436fad5b39df926373f"
+                  },
+                  {
+                      "path":  "ending.png",
+                      "sha256":  "5ebe48141511c7e0d6f463d80d545c912c2d1a96db81bb97a9070a5944e85681"
+                  },
+                  {
+                      "path":  "game-overlay.html",
+                      "sha256":  "f7dfd6351a918b99b7cb5dfce89ff11d3f0f222fbb554a49fc9c316f77799bbe"
+                  },
+                  {
+                      "path":  "game-overlay.png",
+                      "sha256":  "32323e3137161893788358d1e37602caa129f09f92489c98a0e7eadf01b68b6c"
+                  },
+                  {
+                      "path":  "lounge.html",
+                      "sha256":  "babaa0e2ac52bda61d25fd1a341cdb2fb40c42270e0407b1e0c310eb2756fbf1"
+                  },
+                  {
+                      "path":  "lounge.png",
+                      "sha256":  "02a80eeb4c20ff30887c9d4091c9f4af11be75bdafd543f829f34dbe952e37d5"
+                  },
+                  {
+                      "path":  "lounge-camera.html",
+                      "sha256":  "cc6690326145391f7cdca8531a3251002318973ef8eec1c4bbff9ce34e0f35fd"
+                  },
+                  {
+                      "path":  "lounge-camera.png",
+                      "sha256":  "e6be0c4ab6d7d5527796db9c1f59525ead1c63aeafe650ed97c032511d567157"
+                  },
+                  {
+                      "path":  "media/after-hours-original.wav",
+                      "sha256":  "279b8f5e122b560d2c735cb89b82fcf81d753a8c47fa3eabfdb1407e940945d3"
+                  },
+                  {
+                      "path":  "media/transition.webm",
+                      "sha256":  "7e958df44a615c255213292c5f47a974a2fe80e9f2cec74c6db5b19f1cbffe89"
+                  },
+                  {
+                      "path":  "minimap-cover.html",
+                      "sha256":  "b299d878c54dc86e2f9704241b99a72d24a270143a308bfb468aece89067da47"
+                  },
+                  {
+                      "path":  "minimap-cover.png",
+                      "sha256":  "8a3d047211e26eac039c99844c420e31761bdedc2f0e3101c89c4fbeaa5c3a9a"
+                  },
+                  {
+                      "path":  "offline.html",
+                      "sha256":  "3ddde103f6cbc11fb9128144fc9d00a43a70e1f7ab6c8e429a63fbec02084d2d"
+                  },
+                  {
+                      "path":  "offline.png",
+                      "sha256":  "0e9d921f60ac2f0560bffb0e970ba3ee630896eb44a35c7f355727b40090bde7"
+                  },
+                  {
+                      "path":  "panel-house_rules.html",
+                      "sha256":  "7a146ad1468d94c341f62e9a082a2c76eb66ea700c9d551f6391a171e63f0c3e"
+                  },
+                  {
+                      "path":  "panel-house_rules.png",
+                      "sha256":  "c2e7f69af1ecbb0a9ca11357d1d19d2b30056260e3049bcb277c1af568a72eee"
+                  },
+                  {
+                      "path":  "panel-side_quests.html",
+                      "sha256":  "28a521000437ab6812e847cb1514323b67e47e3a606a841156e88a7dcbd78504"
+                  },
+                  {
+                      "path":  "panel-side_quests.png",
+                      "sha256":  "5019bc3770e1f27b1d6f2886c77abc9efccdd9107e1b8704ce723923875231c1"
+                  },
+                  {
+                      "path":  "panel-whoami.html",
+                      "sha256":  "946eeb46d9bc24c288cf071ae16e23abc7f4ccdbf9a39e542f94dc180024a8b8"
+                  },
+                  {
+                      "path":  "panel-whoami.png",
+                      "sha256":  "91ad8076cb2c3f97e50a5b948d26323039cecdc8273d56a800a66a398a658567"
+                  },
+                  {
+                      "path":  "starting.html",
+                      "sha256":  "2d0c0c36b5d126688510fa23aa9269f0b2d9218b0ceadbef118132946fdec750"
+                  },
+                  {
+                      "path":  "starting.png",
+                      "sha256":  "27385d58c78205f339eded7d75c9e3e496119dfb56450195e376c30ad4e6f1c0"
+                  },
+                  {
+                      "path":  "twitch-banner.html",
+                      "sha256":  "9d4377396955aface4ee89f9dd6f69a3050edc1e8560882bb45c8b5426e278e4"
+                  },
+                  {
+                      "path":  "twitch-banner.png",
+                      "sha256":  "5e95fa4758d005938df1c20c44a28187104e2c34caaa2c5bacea4ce165a8c72e"
+                  }
+              ]
+}

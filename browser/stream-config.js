@@ -1,0 +1,1 @@
+window.STREAM_CONFIG={brand:{accent:"#34d399",twitchChannel:"itzmaniss"},chat:{maxMessages:6,fadeAfterSeconds:45},startingMinutes:5};
