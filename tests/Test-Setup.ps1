@@ -99,3 +99,5 @@ Put (Join-Path $brokenRepo 'obs\asset-manifest.json') $badManifest
 Assert ((Run-Setup $brokenRepo $install) -ne 0) 'rejects paths outside the asset package'
 
 Write-Host "`n$passed checks passed. Test files: $testBase" -ForegroundColor Green
+# Expected negative tests leave LASTEXITCODE=1; report the suite's result to CI.
+exit 0
